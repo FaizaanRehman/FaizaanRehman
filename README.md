@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Faizaan 👋
 
-<!--
-**FaizaanRehman/FaizaanRehman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Developer specializing in UI systems and full-stack applications.
 
-Here are some ideas to get you started:
+Currently working as a programmer on a live-service multiplayer title.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 B.A.Sc. Computer Engineering — University of Waterloo
+
+## Portfolio
+https://faizaanrehman.netlify.app/
+
+## Featured Projects
+- Deal Scraper – Full-stack app that aggregates restaurant deals from social media
+- Student Housing Platform – Website for students to secure housing more easily
+- Food Tracker – Android app for tracking food inventory and expiration alerts
+
+## Connect
+LinkedIn: https://linkedin.com/in/faizaan-rehman
